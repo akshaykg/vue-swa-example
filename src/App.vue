@@ -1,4 +1,4 @@
-<template>
+ <template>
   <div>Hello {{ value }}</div>
 </template>
 
@@ -7,7 +7,7 @@ export default {
   name: "App",
   data() {
     return {
-      value: "World"
+      value: "Immertion batch"
     };
   }
 };
